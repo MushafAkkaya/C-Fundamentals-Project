@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\musha\\source\\repos\\C#FundamentalsProject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{728C0B5F-2855-4607-A43D-A7C15A6A912D}|C#FundamentalsProject\\C#FundamentalsProject.csproj|c:\\users\\musha\\source\\repos\\c#fundamentalsproject\\c#fundamentalsproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{728C0B5F-2855-4607-A43D-A7C15A6A912D}|C#FundamentalsProject\\C#FundamentalsProject.csproj|solutionrelative:c#fundamentalsproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\musha\\source\\repos\\C#FundamentalsProject\\C#FundamentalsProject\\Program.cs",
+              "RelativeDocumentMoniker": "C#FundamentalsProject\\Program.cs",
+              "ToolTip": "C:\\Users\\musha\\source\\repos\\C#FundamentalsProject\\C#FundamentalsProject\\Program.cs",
+              "RelativeToolTip": "C#FundamentalsProject\\Program.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAuwCMAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-04T16:29:00.634Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

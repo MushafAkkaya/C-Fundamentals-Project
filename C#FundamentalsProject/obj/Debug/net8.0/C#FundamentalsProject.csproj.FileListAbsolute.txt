@@ -1,0 +1,14 @@
+C:\Users\musha\source\repos\C#FundamentalsProject\C#FundamentalsProject\bin\Debug\net8.0\C#FundamentalsProject.exe
+C:\Users\musha\source\repos\C#FundamentalsProject\C#FundamentalsProject\bin\Debug\net8.0\C#FundamentalsProject.deps.json
+C:\Users\musha\source\repos\C#FundamentalsProject\C#FundamentalsProject\bin\Debug\net8.0\C#FundamentalsProject.runtimeconfig.json
+C:\Users\musha\source\repos\C#FundamentalsProject\C#FundamentalsProject\bin\Debug\net8.0\C#FundamentalsProject.dll
+C:\Users\musha\source\repos\C#FundamentalsProject\C#FundamentalsProject\bin\Debug\net8.0\C#FundamentalsProject.pdb
+C:\Users\musha\source\repos\C#FundamentalsProject\C#FundamentalsProject\obj\Debug\net8.0\C#FundamentalsProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\musha\source\repos\C#FundamentalsProject\C#FundamentalsProject\obj\Debug\net8.0\C#FundamentalsProject.AssemblyInfoInputs.cache
+C:\Users\musha\source\repos\C#FundamentalsProject\C#FundamentalsProject\obj\Debug\net8.0\C#FundamentalsProject.AssemblyInfo.cs
+C:\Users\musha\source\repos\C#FundamentalsProject\C#FundamentalsProject\obj\Debug\net8.0\C#FundamentalsProject.csproj.CoreCompileInputs.cache
+C:\Users\musha\source\repos\C#FundamentalsProject\C#FundamentalsProject\obj\Debug\net8.0\C#FundamentalsProject.dll
+C:\Users\musha\source\repos\C#FundamentalsProject\C#FundamentalsProject\obj\Debug\net8.0\refint\C#FundamentalsProject.dll
+C:\Users\musha\source\repos\C#FundamentalsProject\C#FundamentalsProject\obj\Debug\net8.0\C#FundamentalsProject.pdb
+C:\Users\musha\source\repos\C#FundamentalsProject\C#FundamentalsProject\obj\Debug\net8.0\C#FundamentalsProject.genruntimeconfig.cache
+C:\Users\musha\source\repos\C#FundamentalsProject\C#FundamentalsProject\obj\Debug\net8.0\ref\C#FundamentalsProject.dll
